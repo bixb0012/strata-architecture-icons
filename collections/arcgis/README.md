@@ -9,6 +9,8 @@ Icons for diagramming ArcGIS systems, together with the general IT components, p
   <img alt="Strata ArcGIS collection: every icon" src="preview/preview-light.svg">
 </picture>
 
+To compare the themes, open the [switchable preview](https://raw.githubusercontent.com/bixb0012/strata-architecture-icons/main/collections/arcgis/preview/preview.svg). It opens in your system theme and has a Light / Dark switch.
+
 ## What's included
 
 **122 icons**, plus **10 containers and labels**, in seven groups that match Esri's seven stencils. License Manager is in two groups, as in Esri's toolkit, so there are 121 different drawings:

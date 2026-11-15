@@ -9,6 +9,8 @@ The core collection is a starting set, not a complete library. More icons will b
   <img alt="Strata core collection: every icon" src="preview/preview-light.svg">
 </picture>
 
+To compare the themes, open the [switchable preview](https://raw.githubusercontent.com/bixb0012/strata-architecture-icons/main/collections/core/preview/preview.svg). It opens in your system theme and has a Light / Dark switch.
+
 ## What's included
 
 **24 icons** in four groups:

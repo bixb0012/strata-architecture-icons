@@ -9,6 +9,8 @@ Strata is organised in collections. The core collection holds vendor-neutral ico
   <img alt="Strata core collection: every icon" src="collections/core/preview/preview-light.svg">
 </picture>
 
+To compare the themes, open the [switchable preview](https://raw.githubusercontent.com/bixb0012/strata-architecture-icons/main/collections/core/preview/preview.svg). It opens in your system theme and has a Light / Dark switch.
+
 ## Collections
 
 | Collection | Icons | Covers |
@@ -37,7 +39,7 @@ Each collection has these folders. The ArcGIS collection also has `alternates/`,
 | `png/` | PNG files in `64/` and `256/`, aligned to the pixel grid for crisp edges. Icons are 64 or 256 px wide; icons with a vendor tag are taller. Containers and labels keep their own proportions, at the same scale |
 | `manifest.json` | Every icon with its group, shape name, source, and SVG, PNG and Visio files |
 | `visio/` | Visio stencils, one per group of icons, in Light and in Dark |
-| `preview/` | Preview sheets of every icon, in Light and Dark, as SVG (sharp at any size) and PNG |
+| `preview/` | Preview sheets of every icon: `preview-light` and `preview-dark` as SVG (sharp at any size) and PNG, and `preview.svg`, which has both themes and a Light / Dark switch when opened in a browser |
 
 ## Using the icons
 
