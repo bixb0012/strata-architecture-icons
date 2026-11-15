@@ -1,0 +1,657 @@
+{
+ "collection": "core",
+ "format": 1,
+ "icons": [
+  {
+   "group": "compute",
+   "name": "server",
+   "shape": "Server",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/compute/server.svg",
+    "dark": "svg/compute/server_dark.svg",
+    "light_painted_gap": "svg/compute/server_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/server_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/server.png",
+     "dark": "png/64/compute/server_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/server.png",
+     "dark": "png/256/compute/server_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "virtual-machine",
+   "shape": "Virtual Machine",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/compute/virtual-machine.svg",
+    "dark": "svg/compute/virtual-machine_dark.svg",
+    "light_painted_gap": "svg/compute/virtual-machine_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/virtual-machine_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/virtual-machine.png",
+     "dark": "png/64/compute/virtual-machine_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/virtual-machine.png",
+     "dark": "png/256/compute/virtual-machine_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "container",
+   "shape": "Container",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/compute/container.svg",
+    "dark": "svg/compute/container_dark.svg",
+    "light_painted_gap": "svg/compute/container_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/container_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/container.png",
+     "dark": "png/64/compute/container_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/container.png",
+     "dark": "png/256/compute/container_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "container-cluster",
+   "shape": "Container Cluster",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/compute/container-cluster.svg",
+    "dark": "svg/compute/container-cluster_dark.svg",
+    "light_painted_gap": "svg/compute/container-cluster_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/container-cluster_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/container-cluster.png",
+     "dark": "png/64/compute/container-cluster_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/container-cluster.png",
+     "dark": "png/256/compute/container-cluster_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "web-server",
+   "shape": "Web Server",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/compute/web-server.svg",
+    "dark": "svg/compute/web-server_dark.svg",
+    "light_painted_gap": "svg/compute/web-server_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/web-server_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/web-server.png",
+     "dark": "png/64/compute/web-server_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/web-server.png",
+     "dark": "png/256/compute/web-server_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "api-gateway",
+   "shape": "API Gateway",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/compute/api-gateway.svg",
+    "dark": "svg/compute/api-gateway_dark.svg",
+    "light_painted_gap": "svg/compute/api-gateway_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/api-gateway_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/api-gateway.png",
+     "dark": "png/64/compute/api-gateway_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/api-gateway.png",
+     "dark": "png/256/compute/api-gateway_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "message-queue",
+   "shape": "Message Queue",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/compute/message-queue.svg",
+    "dark": "svg/compute/message-queue_dark.svg",
+    "light_painted_gap": "svg/compute/message-queue_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/message-queue_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/message-queue.png",
+     "dark": "png/64/compute/message-queue_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/message-queue.png",
+     "dark": "png/256/compute/message-queue_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "compute",
+   "name": "workstation",
+   "shape": "Workstation",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/compute/workstation.svg",
+    "dark": "svg/compute/workstation_dark.svg",
+    "light_painted_gap": "svg/compute/workstation_painted-gap.svg",
+    "dark_painted_gap": "svg/compute/workstation_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/compute/workstation.png",
+     "dark": "png/64/compute/workstation_dark.png"
+    },
+    "256": {
+     "light": "png/256/compute/workstation.png",
+     "dark": "png/256/compute/workstation_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Compute_Light.vssx",
+    "dark": "visio/Strata_Core_Compute_Dark.vssx"
+   }
+  },
+  {
+   "group": "network",
+   "name": "internet",
+   "shape": "Internet",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/network/internet.svg",
+    "dark": "svg/network/internet_dark.svg",
+    "light_painted_gap": "svg/network/internet_painted-gap.svg",
+    "dark_painted_gap": "svg/network/internet_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/internet.png",
+     "dark": "png/64/network/internet_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/internet.png",
+     "dark": "png/256/network/internet_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   }
+  },
+  {
+   "group": "network",
+   "name": "router",
+   "shape": "Router",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/network/router.svg",
+    "dark": "svg/network/router_dark.svg",
+    "light_painted_gap": "svg/network/router_painted-gap.svg",
+    "dark_painted_gap": "svg/network/router_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/router.png",
+     "dark": "png/64/network/router_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/router.png",
+     "dark": "png/256/network/router_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   }
+  },
+  {
+   "group": "network",
+   "name": "switch",
+   "shape": "Switch",
+   "source": "Strata",
+   "svg": {
+    "light": "svg/network/switch.svg",
+    "dark": "svg/network/switch_dark.svg",
+    "light_painted_gap": "svg/network/switch_painted-gap.svg",
+    "dark_painted_gap": "svg/network/switch_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/switch.png",
+     "dark": "png/64/network/switch_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/switch.png",
+     "dark": "png/256/network/switch_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   }
+  },
+  {
+   "group": "network",
+   "name": "load-balancer",
+   "shape": "Load Balancer",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/network/load-balancer.svg",
+    "dark": "svg/network/load-balancer_dark.svg",
+    "light_painted_gap": "svg/network/load-balancer_painted-gap.svg",
+    "dark_painted_gap": "svg/network/load-balancer_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/load-balancer.png",
+     "dark": "png/64/network/load-balancer_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/load-balancer.png",
+     "dark": "png/256/network/load-balancer_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "network",
+   "name": "forward-proxy",
+   "shape": "Forward Proxy",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/network/forward-proxy.svg",
+    "dark": "svg/network/forward-proxy_dark.svg",
+    "light_painted_gap": "svg/network/forward-proxy_painted-gap.svg",
+    "dark_painted_gap": "svg/network/forward-proxy_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/forward-proxy.png",
+     "dark": "png/64/network/forward-proxy_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/forward-proxy.png",
+     "dark": "png/256/network/forward-proxy_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "network",
+   "name": "reverse-proxy",
+   "shape": "Reverse Proxy",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/network/reverse-proxy.svg",
+    "dark": "svg/network/reverse-proxy_dark.svg",
+    "light_painted_gap": "svg/network/reverse-proxy_painted-gap.svg",
+    "dark_painted_gap": "svg/network/reverse-proxy_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/reverse-proxy.png",
+     "dark": "png/64/network/reverse-proxy_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/reverse-proxy.png",
+     "dark": "png/256/network/reverse-proxy_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "network",
+   "name": "dns",
+   "shape": "DNS",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/network/dns.svg",
+    "dark": "svg/network/dns_dark.svg",
+    "light_painted_gap": "svg/network/dns_painted-gap.svg",
+    "dark_painted_gap": "svg/network/dns_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/network/dns.png",
+     "dark": "png/64/network/dns_dark.png"
+    },
+    "256": {
+     "light": "png/256/network/dns.png",
+     "dark": "png/256/network/dns_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Network_Light.vssx",
+    "dark": "visio/Strata_Core_Network_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "security",
+   "name": "firewall",
+   "shape": "Firewall",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/security/firewall.svg",
+    "dark": "svg/security/firewall_dark.svg",
+    "light_painted_gap": "svg/security/firewall_painted-gap.svg",
+    "dark_painted_gap": "svg/security/firewall_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/security/firewall.png",
+     "dark": "png/64/security/firewall_dark.png"
+    },
+    "256": {
+     "light": "png/256/security/firewall.png",
+     "dark": "png/256/security/firewall_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Security_Light.vssx",
+    "dark": "visio/Strata_Core_Security_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "security",
+   "name": "vpn-gateway",
+   "shape": "VPN Gateway",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/security/vpn-gateway.svg",
+    "dark": "svg/security/vpn-gateway_dark.svg",
+    "light_painted_gap": "svg/security/vpn-gateway_painted-gap.svg",
+    "dark_painted_gap": "svg/security/vpn-gateway_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/security/vpn-gateway.png",
+     "dark": "png/64/security/vpn-gateway_dark.png"
+    },
+    "256": {
+     "light": "png/256/security/vpn-gateway.png",
+     "dark": "png/256/security/vpn-gateway_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Security_Light.vssx",
+    "dark": "visio/Strata_Core_Security_Dark.vssx"
+   }
+  },
+  {
+   "group": "security",
+   "name": "ddos-attack",
+   "shape": "DDOS Attack",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/security/ddos-attack.svg",
+    "dark": "svg/security/ddos-attack_dark.svg",
+    "light_painted_gap": "svg/security/ddos-attack_painted-gap.svg",
+    "dark_painted_gap": "svg/security/ddos-attack_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/security/ddos-attack.png",
+     "dark": "png/64/security/ddos-attack_dark.png"
+    },
+    "256": {
+     "light": "png/256/security/ddos-attack.png",
+     "dark": "png/256/security/ddos-attack_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Security_Light.vssx",
+    "dark": "visio/Strata_Core_Security_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "security",
+   "name": "ssl-certificate",
+   "shape": "SSL Certificate",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/security/ssl-certificate.svg",
+    "dark": "svg/security/ssl-certificate_dark.svg",
+    "light_painted_gap": "svg/security/ssl-certificate_painted-gap.svg",
+    "dark_painted_gap": "svg/security/ssl-certificate_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/security/ssl-certificate.png",
+     "dark": "png/64/security/ssl-certificate_dark.png"
+    },
+    "256": {
+     "light": "png/256/security/ssl-certificate.png",
+     "dark": "png/256/security/ssl-certificate_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Security_Light.vssx",
+    "dark": "visio/Strata_Core_Security_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "security",
+   "name": "identity-provider",
+   "shape": "Identity Provider",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/security/identity-provider.svg",
+    "dark": "svg/security/identity-provider_dark.svg",
+    "light_painted_gap": "svg/security/identity-provider_painted-gap.svg",
+    "dark_painted_gap": "svg/security/identity-provider_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/security/identity-provider.png",
+     "dark": "png/64/security/identity-provider_dark.png"
+    },
+    "256": {
+     "light": "png/256/security/identity-provider.png",
+     "dark": "png/256/security/identity-provider_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Security_Light.vssx",
+    "dark": "visio/Strata_Core_Security_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  },
+  {
+   "group": "data",
+   "name": "database",
+   "shape": "Database",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/data/database.svg",
+    "dark": "svg/data/database_dark.svg",
+    "light_painted_gap": "svg/data/database_painted-gap.svg",
+    "dark_painted_gap": "svg/data/database_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/data/database.png",
+     "dark": "png/64/data/database_dark.png"
+    },
+    "256": {
+     "light": "png/256/data/database.png",
+     "dark": "png/256/data/database_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Data_Light.vssx",
+    "dark": "visio/Strata_Core_Data_Dark.vssx"
+   }
+  },
+  {
+   "group": "data",
+   "name": "cache",
+   "shape": "Cache",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/data/cache.svg",
+    "dark": "svg/data/cache_dark.svg",
+    "light_painted_gap": "svg/data/cache_painted-gap.svg",
+    "dark_painted_gap": "svg/data/cache_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/data/cache.png",
+     "dark": "png/64/data/cache_dark.png"
+    },
+    "256": {
+     "light": "png/256/data/cache.png",
+     "dark": "png/256/data/cache_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Data_Light.vssx",
+    "dark": "visio/Strata_Core_Data_Dark.vssx"
+   }
+  },
+  {
+   "group": "data",
+   "name": "backup",
+   "shape": "Backup",
+   "source": "Strata, with parts adapted from Esri",
+   "svg": {
+    "light": "svg/data/backup.svg",
+    "dark": "svg/data/backup_dark.svg",
+    "light_painted_gap": "svg/data/backup_painted-gap.svg",
+    "dark_painted_gap": "svg/data/backup_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/data/backup.png",
+     "dark": "png/64/data/backup_dark.png"
+    },
+    "256": {
+     "light": "png/256/data/backup.png",
+     "dark": "png/256/data/backup_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Data_Light.vssx",
+    "dark": "visio/Strata_Core_Data_Dark.vssx"
+   }
+  },
+  {
+   "group": "data",
+   "name": "file-share",
+   "shape": "File Share",
+   "source": "adapted from Esri",
+   "svg": {
+    "light": "svg/data/file-share.svg",
+    "dark": "svg/data/file-share_dark.svg",
+    "light_painted_gap": "svg/data/file-share_painted-gap.svg",
+    "dark_painted_gap": "svg/data/file-share_dark_painted-gap.svg"
+   },
+   "png": {
+    "64": {
+     "light": "png/64/data/file-share.png",
+     "dark": "png/64/data/file-share_dark.png"
+    },
+    "256": {
+     "light": "png/256/data/file-share.png",
+     "dark": "png/256/data/file-share_dark.png"
+    }
+   },
+   "visio": {
+    "light": "visio/Strata_Core_Data_Light.vssx",
+    "dark": "visio/Strata_Core_Data_Dark.vssx"
+   },
+   "also_in": [
+    "arcgis"
+   ]
+  }
+ ]
+}

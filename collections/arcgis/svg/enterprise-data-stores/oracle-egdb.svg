@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -22 76 98" width="152" height="196"><title>Oracle eGDB</title><desc>Strata architecture icons, ArcGIS collection. Adapted from the ArcGIS Architecture Diagramming Toolkit by Esri, licensed CC BY 4.0. Reconstructed as layered parts; not affiliated with or endorsed by Esri.</desc><g id="set-scale" transform="translate(38,38) scale(0.925) translate(-38,-38)"><defs><linearGradient id="oracle-egdb-base" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b194fd"/><stop offset="1" stop-color="#9d70fb"/></linearGradient><linearGradient id="oracle-egdb-top" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c3b0fd"/><stop offset="1" stop-color="#b194fd"/></linearGradient>
+    <linearGradient
+       id="oracle-egdb-globe-globe-ocean-fill"
+       x1="-25.78"
+       y1="-25.78"
+       x2="-25.780"
+       y2="25.780"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#7fd0f5"
+         id="oracle-egdb-globe-stop1" />
+      <stop
+         offset="1"
+         stop-color="#3aa6de"
+         id="oracle-egdb-globe-stop2" />
+    </linearGradient>
+    <linearGradient
+       id="oracle-egdb-globe-globe-land-fill"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="-25.780"
+       x2="0"
+       y2="25.780">
+      <stop
+         offset="0"
+         stop-color="#a5dc7a"
+         id="oracle-egdb-globe-stop3" />
+      <stop
+         offset="1"
+         stop-color="#6cbf4f"
+         id="oracle-egdb-globe-stop4" />
+    </linearGradient>
+  <mask id="oracle-egdb-ko0" maskUnits="userSpaceOnUse" x="-100" y="-100" width="300" height="300"><rect x="-100" y="-100" width="300" height="300" fill="#fff"/><path fill="#000" fill-rule="evenodd" d="M41.45,1.07 41.01,2.32 40.71,3.6 40.52,4.9 40.47,5.98 40.55,7.54 40.75,8.84 41.08,10.11 41.45,11.13 42,12.33 42.67,13.46 43.44,14.53 44.49,15.68 45.47,16.56 46.34,17.2 47.46,17.89 48.65,18.46 50.12,18.99 51.16,19.25 52.46,19.45 54.02,19.53 55.34,19.45 56.64,19.25 57.68,18.99 58.93,18.55 60.13,18 61.14,17.41 61.13,7.85 60.85,6.66 60.3,5.72 59.5,4.86 58.37,4 56.99,3.22 55.35,2.49 53.51,1.83 51.48,1.23 46.89,0.23 42.18,-0.45Z M59.55,32.68 57.91,31.45 56.15,30.39 54.3,29.5 52.36,28.8 50.37,28.29 48.34,27.98 46.29,27.87 44.24,27.96 42.21,28.25 40.21,28.74 38.28,29.43 36.42,30.3 34.65,31.35 32.99,32.56 31.47,33.93 30.08,35.45 28.85,37.09 27.79,38.85 26.9,40.7 26.2,42.64 25.69,44.63 25.38,46.66 25.27,48.71 25.36,50.76 25.65,52.79 26.14,54.79 26.83,56.72 27.7,58.58 28.75,60.35 29.96,62.01 30.96,63.12 33.97,63.07 37.82,62.87 41.58,62.53 45.16,62.06 48.51,61.46 51.49,60.76 54.13,59.96 56.4,59.06 58.3,58.04 59.74,56.91 60.72,55.62 60.85,55.32 61.14,54 61.14,34.15Z"/></mask></defs><g transform="translate(4.65,5.5)"><g id="oracle-egdb"><g id="base" mask="url(#oracle-egdb-ko0)"><g id="cylinder"><path id="cylinder-lower" class="body" fill="url(#oracle-egdb-base)" stroke="#6029b1" stroke-width="1.081" stroke-linejoin="miter" d="M0,24 L0,54 A30,8 0 0 0 30,62 A30,8 0 0 0 60,54 L60,24 Z"/><path id="cylinder-band" class="body" fill="url(#oracle-egdb-base)" stroke="#6029b1" stroke-width="1.081" stroke-linejoin="miter" d="M0,8 L0,24 A30,8 0 0 0 30,32 A30,8 0 0 0 60,24 L60,8 Z"/><ellipse id="cylinder-cap" class="top" fill="url(#oracle-egdb-top)" stroke="#6029b1" stroke-width="1.081" stroke-linejoin="miter" cx="30" cy="8" rx="30" ry="8"/></g></g><g id="badge"><path id="badge-gap" class="knockout" fill="none" d="M59.55,32.68 57.91,31.45 56.15,30.39 54.3,29.5 52.36,28.8 50.37,28.29 48.34,27.98 46.29,27.87 44.24,27.96 42.21,28.25 40.21,28.74 38.28,29.43 36.42,30.3 34.65,31.35 32.99,32.56 31.33,34.07 29.96,35.59 28.85,37.09 27.79,38.85 26.9,40.7 26.2,42.64 25.69,44.63 25.38,46.66 25.27,48.71 25.36,50.76 25.65,52.79 26.14,54.79 26.83,56.72 27.7,58.58 28.75,60.35 30.43,62.53 33.94,62.47 37.79,62.27 41.53,61.93 45.07,61.46 48.39,60.87 51.34,60.18 53.96,59.39 56.18,58.5 57.97,57.54 59.31,56.5 60.18,55.37 60.54,54 60.54,33.58Z"/><g id="globe" class="depicted" transform="translate(27.159,29.759)"><g transform="translate(19.041,19.041) scale(0.718)"><g
+     id="oracle-egdb-globe-globe">
+    <circle class="depicted"
+       id="oracle-egdb-globe-globe-ocean"
+       fill="url(#oracle-egdb-globe-globe-ocean-fill)"
+       cx="0"
+       cy="0"
+       r="25.78" />
+    <g
+       id="oracle-egdb-globe-globe-land">
+      <path class="depicted"
+         id="oracle-egdb-globe-globe-land-1"
+         fill="url(#oracle-egdb-globe-globe-land-fill)"
+         stroke="#2b7400"
+         stroke-width="1.055"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         d="M -2.37,5.98 C -2,4.91 -2.01,3.66 -1.15,2.79 -0.61,2.15 -0.31,0.85 0.42,0.76 1.56,0.62 1.93,0.58 2.35,-0.26 3.01,-1.28 3.92,-2.15 5.04,-2.61 6.77,-2.65 8.46,-2.85 10.17,-3.01 c 0.89,0.08 1.9,-0.09 2.3,0.9 0.41,0.72 0.45,1.58 1.53,1.72 0.77,0.14 1.69,1.25 2.34,0.65 0.63,-0.7 1.28,-1.33 2.2,-0.67 0.75,0.38 1.66,-0.15 2.33,-0.45 C 21.51,-1.45 21.13,-2.67 20.33,-2.93 19.53,-3.05 18.67,-3.28 18.15,-3.98 17.62,-4.42 16.83,-2.89 16.06,-3.9 15.59,-5 14.89,-6.15 13.76,-6.75 c -0.45,0.9 -1.26,1.12 -2.04,0.46 -0.95,-0.9 -2.19,-0.04 -2.83,0.81 -0.92,1.12 -2.61,1.07 -3.91,0.92 C 3.79,-4.78 4.4,-5.86 4.47,-6.68 4.99,-7.33 5.8,-7.72 6.63,-7.31 c 1.44,0.27 0.4,-1.1 0.76,-1.78 0.15,-0.94 0.91,-1.38 1.63,-1.87 0.89,-0.68 1.7,-2.15 3,-1.56 0.88,0.37 1.8,0.1 2.71,0.03 -0.07,-0.89 0.14,-1.91 -0.1,-2.73 -0.56,-0.25 -1.78,-1.02 -1.96,-0.11 0.35,0.9 -0.44,1.2 -1.25,1.44 -0.8,0.2 -1.76,-0.3 -1.93,-1.12 -0.5,-0.89 0.19,-1.55 0.55,-2.33 0.28,-1.17 1.5,-1.89 2.3,-2.05 l 2.99,0.66 c 0.45,-0.74 0.85,-1.91 1.59,-0.71 6.39,5.45 9.74,14.19 8.66,22.52 C 24.75,10.33 20.64,17.07 14.65,21.2 14.13,21.03 13.79,19.83 13.37,19.25 12.5,17.42 11.54,15.64 10.5,13.9 8.9,13.58 7.31,13.11 5.67,13.43 4.36,13.58 2.99,13.53 1.73,13.79 1.11,14.29 0.08,13.54 -0.34,13 -1.43,11.51 -2.76,10.09 -3.71,8.54 -3.92,7.51 -3.57,6.97 -2.74,6.51 Z" />
+      <path class="depicted"
+         id="oracle-egdb-globe-globe-land-2"
+         fill="url(#oracle-egdb-globe-globe-land-fill)"
+         stroke="#2b7400"
+         stroke-width="1.055"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         d="m -19.03,12.16 c 1.02,0.8 2.04,1.6 3.06,2.4 0.27,0.85 -0.2,1.63 -0.99,1.99 -0.65,0.25 -0.75,2.25 -1.39,1.53 -4.26,-4.32 -6.93,-10.18 -7.34,-16.24 -0.13,-1.13 -0.02,-2.27 -0.04,-3.41 1.46,3.04 2.73,6.21 4.84,8.88 0.05,1.32 -0.26,2.81 0.49,3.95 0.46,0.3 0.91,0.6 1.37,0.9 z" />
+      <path class="depicted"
+         id="oracle-egdb-globe-globe-land-3"
+         fill="url(#oracle-egdb-globe-globe-land-fill)"
+         stroke="#2b7400"
+         stroke-width="1.055"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         d="m -21.69,-13.94 c 2.01,-3 4.53,-5.68 7.59,-7.63 1.75,-1.17 3.67,-2.06 5.64,-2.79 0,0.84 1.19,1.41 0.55,2.25 -0.38,1.27 -1.43,2.19 -2.12,3.3 -0.77,0.63 -1.66,0.18 -2.52,0.02 -0.69,0.72 -1.41,1.59 -2.31,1.99 -1.04,0.04 -2.21,-0.41 -3.03,0.44 -1.27,0.81 -2.53,1.62 -3.8,2.42 z" />
+      <path class="depicted"
+         id="oracle-egdb-globe-globe-land-4"
+         fill="url(#oracle-egdb-globe-globe-land-fill)"
+         stroke="#2b7400"
+         stroke-width="1.055"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         d="m 0.95,-25.76 c 1.44,0.08 2.88,0.25 4.3,0.52 -0.6,1.08 -1.06,2.27 -2.11,3 -0.5,0.7 -0.65,1.72 -1.75,1.35 -1.03,0.1 -2.21,-0.21 -3.15,0.17 -0.92,0.59 -1.69,1.5 -2.84,1.62 -0.62,-0.78 -0.54,-1.62 -0.03,-2.33 1.15,-1 2.29,-1.87 2.92,-3.29 0.32,-0.97 0.49,-1.19 1.67,-1.03 l 0.99,-0.01 z" />
+      <path class="depicted"
+         id="oracle-egdb-globe-globe-land-5"
+         fill="url(#oracle-egdb-globe-globe-land-fill)"
+         stroke="#2b7400"
+         stroke-width="1.055"
+         stroke-linejoin="miter"
+         stroke-miterlimit="4"
+         d="m 6.13,-13.95 c -0.11,0.91 1.35,1.42 0.4,2.26 -0.13,1.13 -1.58,0.53 -1.64,-0.32 -0.15,-0.89 -1.4,-1 -1.16,-2.04 0.38,-0.61 1.02,-1.49 1.81,-0.8 0.2,0.3 0.4,0.6 0.59,0.9 z" />
+    </g>
+    <circle class="depicted"
+       id="oracle-egdb-globe-globe-rim"
+       fill="none"
+       stroke="#006089"
+       stroke-width="1.507"
+       cx="0"
+       cy="0"
+       r="25.78" />
+  </g>
+</g></g></g><g id="variant-chip" transform="translate(42.9,-4.9)"><path id="variant-chip-gap" class="knockout" fill="none" d="M-1.01,5.02 -1.82,6.99 -2.15,8.26 -2.38,9.8 -2.43,10.88 -2.38,12.2 -2.15,13.74 -1.82,15.01 -1.45,16.03 -0.79,17.44 -0.1,18.56 0.69,19.61 1.42,20.41 2.39,21.31 3.44,22.1 4.56,22.79 5.97,23.45 7.22,23.89 8.26,24.15 9.8,24.38 10.88,24.43 12.2,24.38 13.74,24.15 15.01,23.82 16.03,23.45 17.64,22.66 17.63,12.8 17.43,11.85 17,11.08 16.13,10.14 15.08,9.37 13.78,8.63 12.23,7.95 10.47,7.32 8.44,6.72 3.87,5.72Z"/><circle id="variant-chip-body" class="variant-chip" fill="#ffe752" stroke="#b88804" stroke-width="1.081" stroke-linejoin="miter" cx="11" cy="11" r="11"/><g id="variant-chip-enterprise" class="variant-chip-symbol"><path class="variant-chip" fill="#ffe752" stroke="#3d2f00" stroke-width="1.447" stroke-linejoin="round" d="M16.09,5.67 5.91,5.67 5.64,5.73 5.37,5.93 5.26,6.1 5.21,6.3 5.21,9.84 5.26,10.11 5.37,10.28 5.52,10.42 5.7,10.51 5.91,10.54 16.09,10.54 16.36,10.48 16.63,10.28 16.74,10.11 16.79,9.91 16.79,6.3 16.71,6.04 16.54,5.83 16.3,5.7Z"/><circle class="body" fill="#3d2f00" cx="7.99" cy="8.11" r="0.87"/><path class="variant-chip" fill="#ffe752" stroke="#3d2f00" stroke-width="1.447" stroke-linejoin="round" d="M16.09,11.46 5.91,11.46 5.64,11.52 5.37,11.72 5.26,11.89 5.21,12.09 5.21,15.63 5.26,15.9 5.37,16.07 5.52,16.21 5.7,16.3 5.91,16.33 16.09,16.33 16.36,16.27 16.63,16.07 16.74,15.9 16.79,15.7 16.79,12.09 16.71,11.83 16.59,11.67 16.36,11.52Z"/><circle class="body" fill="#3d2f00" cx="7.99" cy="13.89" r="0.87"/></g></g></g></g></g><g id="tag"><text class="tag" x="38" y="-8.228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13.33" fill="#885ae3">Oracle</text></g></svg>
